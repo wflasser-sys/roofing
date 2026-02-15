@@ -1,0 +1,230 @@
+Create a premium, high-end landing page for a residential roofing contractor.
+
+This is NOT a marketing agency site.
+This is NOT a SaaS startup.
+This is NOT flashy.
+
+This should look like a $5M+ revenue roofing company with strong local authority.
+
+Company Name:
+Apex Roofing & Exteriors
+
+Location:
+Dallas, Texas
+
+Target Audience:
+Homeowners who need roof replacement, storm damage repair, or insurance claim assistance.
+
+Primary Goal:
+Generate inspection calls and estimate requests.
+
+Design Direction:
+- Clean
+- Modern
+- Trustworthy
+- Established
+- Professional
+- Minimal clutter
+- Strong spacing
+- Structured sections
+- High-quality photography
+- Masculine but refined
+- No trendy startup gradients
+- No overuse of animations
+- No playful UI
+- No tech startup aesthetics
+
+Typography:
+- Strong serif or bold sans-serif headline font
+- Clean, readable body font
+- Clear hierarchy
+- Large hero headline
+- Spacious line height
+
+Color Palette:
+- Deep navy or charcoal primary
+- White backgrounds
+- Subtle light gray sections
+- One strong accent color (roofing red or construction orange)
+- High contrast CTA buttons
+
+Layout Structure:
+
+1. HERO SECTION
+Full-width hero with strong background image (real residential roof, not abstract)
+Overlay gradient for readability.
+
+Headline:
+Clear, direct, benefit-driven.
+
+Subheadline:
+Reinforce trust and specialization.
+
+Primary CTA button:
+“Schedule Free Roof Inspection”
+
+Secondary CTA:
+“Get Instant Estimate”
+
+Trust indicators below buttons:
+- Licensed & Insured
+- 25+ Years Experience
+- 5-Star Rated
+- Insurance Claim Specialists
+
+Include phone number top right in header.
+
+2. TRUST BAR
+Horizontal strip with:
+- Google 5-star rating
+- Manufacturer certifications (GAF / Owens Corning style badges)
+- Warranty badge (Lifetime Workmanship Warranty)
+- Fully Licensed & Insured badge
+
+Clean, evenly spaced, subtle background contrast.
+
+3. PROBLEM + SOLUTION SECTION
+Two-column layout.
+
+Left:
+Headline addressing homeowner pain:
+Storm damage, leaks, insurance confusion.
+
+Right:
+Clear paragraph explaining:
+How Apex Roofing handles everything from inspection to insurance approval to installation.
+
+Keep copy concise.
+No marketing fluff.
+
+4. SERVICES SECTION
+Grid layout with icons or images.
+
+Services:
+- Roof Replacement
+- Storm Damage Repair
+- Insurance Claim Assistance
+- Roof Inspections
+- Emergency Repairs
+
+Each service card:
+Short headline
+1–2 sentence description
+“Learn More” link
+
+Clean cards with soft shadow and consistent spacing.
+
+5. PROCESS SECTION
+Horizontal 4-step process with clean icons.
+
+Step 1: Free Inspection
+Step 2: Insurance Support
+Step 3: Professional Installation
+Step 4: Final Walkthrough & Warranty
+
+Minimal text.
+Strong clarity.
+
+6. BEFORE & AFTER SECTION
+High-impact section.
+Use image slider comparison style.
+
+Headline:
+“See the Difference Quality Makes”
+
+Large imagery.
+No clutter.
+
+7. SOCIAL PROOF / TESTIMONIALS
+3 clean testimonial cards.
+Include:
+- Name
+- Location
+- 5-star indicator
+- Short authentic review
+
+No generic praise.
+Make it sound realistic.
+
+8. REVENUE & VALUE SECTION (Subtle Authority)
+Headline:
+“Built to Protect Your Home for Decades”
+
+Explain:
+- Premium materials
+- Long-term warranty
+- Storm resilience
+- Increased home value
+
+This section should feel strong and reassuring.
+
+9. FINANCING SECTION
+Clean split layout.
+
+Left:
+Headline:
+“Flexible Financing Available”
+
+Right:
+Brief explanation:
+Low monthly payments
+Fast approval
+No large upfront burden
+
+Include “Check Financing Options” button.
+
+10. STRONG FINAL CTA SECTION
+Full-width dark background.
+Large bold headline.
+
+Example:
+“Don’t Wait Until Minor Damage Becomes a Major Expense”
+
+Primary CTA:
+Schedule Free Roof Inspection
+
+Phone number large and visible.
+
+11. FOOTER
+Professional footer layout.
+Include:
+- Address (Dallas, TX)
+- Phone number
+- Email
+- Service areas
+- Quick links
+- Social icons
+- License number
+
+Visual Rules:
+- Generous white space between sections
+- Clear separation of sections using light gray backgrounds
+- Buttons large and visible
+- No tiny fonts
+- No dense paragraphs
+- No over-decoration
+- Keep it structured and symmetrical
+
+Image Direction:
+Use real residential roofing photography.
+Use drone shots.
+Use installation action shots.
+Avoid stock models smiling at camera.
+Avoid fake office scenes.
+
+Overall Feel:
+When a roofing contractor sees this page, they should think:
+“This looks like a serious, established company.”
+“This feels trustworthy.”
+“This would convert homeowners.”
+
+It must NOT look like:
+A marketing template.
+A design portfolio.
+A startup SaaS product.
+An agency website.
+
+It must look like:
+A premium local contractor dominating their market.
+
+Focus on clarity, authority, trust, and conversion.

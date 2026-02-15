@@ -1,0 +1,257 @@
+VISUAL APPEARANCE INSTRUCTIONS ONLY
+
+This website must look heavy, dominant, and industrial.
+It must feel like a large, established roofing company.
+It must NOT look like a startup.
+It must NOT look smooth or playful.
+It must NOT look like a marketing agency.
+It must NOT look rounded and soft.
+
+Overall Visual Identity:
+- Hard edges.
+- Strong alignment.
+- Clean grid.
+- Bold typography.
+- Large spacing.
+- Clear section separation.
+- No decorative gradients.
+- No glass effects.
+- No soft UI elements.
+- No trendy UI effects.
+
+--------------------------------
+LAYOUT STRUCTURE
+--------------------------------
+
+Max width container: 1440px
+Left and right padding: 80px
+12-column grid
+Strong vertical spacing between sections: minimum 140px
+
+Each section must feel clearly separated.
+Use white and light gray background alternation to create separation.
+
+--------------------------------
+HEADER
+--------------------------------
+
+Height: 90px
+Background: solid white
+Bottom border: 1px solid very light gray
+
+Logo aligned left.
+Navigation centered-right.
+Phone number bold on far right.
+
+Header must feel firm and stable.
+No floating transparent header.
+No blur.
+No rounded corners.
+
+--------------------------------
+HERO SECTION
+--------------------------------
+
+Height: 90vh minimum
+Full-width background image (real roofing project)
+Dark overlay 60% black for contrast
+
+Content aligned left only.
+Do NOT center hero content.
+
+Headline:
+- 70px font size desktop
+- Bold
+- Tight line height
+- Maximum width 750px
+- Strong visual dominance
+
+Subheadline:
+- 20px
+- Max width 600px
+- 30px spacing below headline
+
+Buttons:
+- Height: 60px
+- Width: auto
+- Padding left/right: 40px
+- Border radius: 4px only
+- Thick rectangular feel
+- No pill buttons
+
+Trust badges:
+Aligned horizontally.
+Equal spacing.
+Small uppercase text.
+
+--------------------------------
+SECTION SPACING RULE
+--------------------------------
+
+Between every major section:
+Minimum 140px vertical padding.
+
+Inside each section:
+Minimum 32px spacing between stacked elements.
+
+No cramped layouts.
+No tight grouping.
+
+--------------------------------
+SERVICES SECTION
+--------------------------------
+
+3-column grid.
+Each card:
+Height: 420px
+Padding: 40px
+Border: 1px solid light gray
+Border radius: 6px max
+Shadow: very subtle only
+
+Service image:
+Top of card
+Height: 200px
+Full width
+Sharp corners
+
+Text aligned left.
+No centered service cards.
+
+--------------------------------
+PROCESS SECTION
+--------------------------------
+
+4 equal columns.
+
+Each step:
+Icon 80px square
+Large step number
+Bold step title
+Short description
+
+Everything evenly spaced.
+Strong horizontal symmetry.
+
+--------------------------------
+BEFORE / AFTER SECTION
+--------------------------------
+
+Full width container.
+Height: 600px fixed.
+
+Sharp divider in center.
+No rounded corners.
+No soft fade edges.
+
+This section should feel strong and impactful.
+
+--------------------------------
+TESTIMONIAL SECTION
+--------------------------------
+
+3 equal columns.
+
+Card height: 320px
+Padding: 40px
+Border: 1px solid light gray
+No heavy shadow.
+No floating card look.
+
+Text left aligned.
+
+--------------------------------
+FINANCING SECTION
+--------------------------------
+
+Two-column layout.
+
+Right side:
+Framed box.
+Border: 2px solid dark color.
+Padding: 50px.
+Height: 400px.
+Square edges.
+
+Box should feel like a structured container.
+
+--------------------------------
+FINAL CTA SECTION
+--------------------------------
+
+Background: very dark charcoal.
+Height: 400px minimum.
+Centered content vertically.
+
+Headline:
+Large.
+White.
+Bold.
+
+Button:
+Large rectangular.
+Strong color contrast.
+Width: 280px.
+Height: 60px.
+
+No glowing.
+No animation.
+
+--------------------------------
+FOOTER
+--------------------------------
+
+Dark navy background.
+White text.
+Structured 4-column layout.
+120px top and bottom padding.
+
+Strong, grounded ending.
+
+--------------------------------
+VISUAL RULES
+--------------------------------
+
+No:
+- Glassmorphism
+- Blurred panels
+- Neon glow
+- Animated backgrounds
+- Gradient buttons
+- Round bubbly shapes
+- Floating elements
+
+Yes:
+- Solid sections
+- Hard structure
+- Strong alignment
+- Industrial feel
+- Masculine typography
+- Clear hierarchy
+- Strong white space
+- Visual weight
+
+--------------------------------
+PSYCHOLOGICAL FEEL
+--------------------------------
+
+When someone sees this website, they must feel:
+
+Strength.
+Stability.
+Authority.
+Revenue.
+Seriousness.
+Dominance.
+
+It must look like a company that:
+Wins contracts.
+Handles insurance.
+Manages large crews.
+Owns its market.
+
+It must NOT feel like:
+A design experiment.
+A startup.
+A marketing demo.
+A soft landing page.
