@@ -29,7 +29,7 @@ export default function RoofReplacement() {
       <section className="relative min-h-[70vh] flex items-center bg-navy">
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=1600&q=80" 
+            src="https://temaroofingservices.com/wp-content/uploads/2023/09/Professional-roofers-during-a-commercial-roof-replacement.--1030x687.jpg" 
             alt="Roof Replacement" 
             className="w-full h-full object-cover opacity-50"
           />
